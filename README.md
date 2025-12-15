@@ -17,7 +17,7 @@ I work with enterprise-grade standards, always validating solutions in the custo
 Currently pursuing a BSc in Computer Science (Generative AI) at the University of London to bridge advanced manufacturing with modern AI-driven automation.
 
 💡 Interests: CAD/CAM automation, NXOpen, manufacturing systems, AI for engineering
-🌍 Languages: EN / DE / PT / IT / FR
+🌍 Languages: EN / DE / PT / IT / FR / HE / ES
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/racamargo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodrigodealmeidacamargo/)  
