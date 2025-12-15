@@ -1,12 +1,23 @@
-### Hi there!
+### 👋 Hi, I’m Rodrigo
 
-I'm a C# developer and also a CAM (Computer Aided Manufacturing) Administrator with more than 20 years experience in the automotive industry. I'm daily involved in projects where I'm able to create custom applications for automation, productivity enhancement and digitalization of manufacturing process focusing on all aspects of the Industry 4.0.
+Senior CAM Automation & NXOpen Developer with 20+ years of experience in Siemens NX, starting with NX practically since its first version.
 
-Most of my projects are related to major CAD/CAM/CAV and ERP softwares (eg: Siemens NX, Teamcenter, SAP, Vericut, Roboris Eureka, and much more!) where I'm able to integrate my solutions through the creation and use of APIs.
+I specialize in:
 
-Skills: C# / Blazor / TCL / Java
+NXOpen automation (C# / .NET)
 
-- ⚡ Fun fact: Language learning is my hobby... fluent on 6 languages and learning the 7th one.. :-) 
+CAM customization & post-processor development
+
+Manufacturing digitalization & process automation
+
+Robust, production-safe solutions for complex NX environments
+
+I work with enterprise-grade standards, always validating solutions in the customer’s licensed NX environment to ensure accuracy, compatibility, and long-term reliability.
+
+Currently pursuing a BSc in Computer Science (Generative AI) at the University of London to bridge advanced manufacturing with modern AI-driven automation.
+
+💡 Interests: CAD/CAM automation, NXOpen, manufacturing systems, AI for engineering
+🌍 Languages: EN / DE / PT / IT / FR
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/racamargo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodrigodealmeidacamargo/)  
